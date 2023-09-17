@@ -39,7 +39,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cualq
 
 ## Licencia
 
-MIT
+This project is open source, under the [MIT License](LICENSE).
 
 
 
